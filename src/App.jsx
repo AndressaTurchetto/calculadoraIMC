@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="App">
       <h1>Calculadora de IMC</h1>
-      <p>Por favor, use o ponto (.) ao inserir altura e peso.</p>
+      <p>Preencha o (campo exemplo 1,70)</p>
       <form onSubmit={calcularIMC}>
         <div className='inputs'>
           <label>
@@ -44,7 +44,6 @@ function App() {
               onChange={(e) => setAltura(e.target.value)}
               required 
             />
-
         </div>
         <div className='inputs'>
           <label>

@@ -34,29 +34,29 @@ body {
 ::-webkit-scrollbar-thumb {
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  background: #75bbfd;
+  background: #FFB38E;
   border: 1px solid #080808;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   -webkit-border-radius: 6px;
-  background: #55a9f8;
+  background: #FFCF9D;
 }
 
 *::selection {
   color: #080808;
-  background: #75bbfd;
+  background: #FFB38E;
   -webkit-text-fill-color: #080808;
 }
 
 a {
   font-weight: 500;
-  color: #75bbfd;
+  color: #FFB38E;
   text-decoration: inherit;
 }
 
 a:hover {
-  color: #55a9f8;
+  color: #FFCF9D;
 }
 
 body {
@@ -69,7 +69,7 @@ body {
 }
 
 h1 {
-  color: #75bbfd;
+  color: #FFB38E;
   font-size: 2.8em;
   line-height: 1.1;
 }
@@ -93,7 +93,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #75bbfd;
+  background-color: #FFB38E;
   color: #131515;
   cursor: pointer;
   transition: ease-in .25s;
@@ -101,5 +101,5 @@ button {
 }
 
 button:hover {
-  background-color: #55a9f8;
+  background-color: #FFCF9D;
 }
