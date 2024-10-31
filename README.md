@@ -35,5 +35,5 @@ Classificação: Peso Normal
 Esse projeto é licenciado sob a Licença MIT.
 
 
-![Imagem da tela](src/assets/print.png3)
+![Imagem da tela](src/assets/print.png)
 
